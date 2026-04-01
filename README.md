@@ -1,3 +1,5 @@
+NOTE: this is for studying purpose, not to replicate nor to recreate original sources
+
 # Source Extraction Notice
 
 This directory contains the source code of `@anthropic-ai/claude-code@2.1.88`, extracted from the published npm package's source map (`cli.js.map`).
